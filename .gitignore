@@ -1,0 +1,16 @@
+# API keys
+.env
+
+# Data files (too large / personal)
+btc_predictions_log.json
+btc_retrain_tracker.json
+btc_xgb_model.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
